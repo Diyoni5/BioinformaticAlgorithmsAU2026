@@ -1,0 +1,2 @@
+# BioinformaticAlgorithmsAU2026
+Описание репозитория
